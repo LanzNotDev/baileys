@@ -1,4 +1,4 @@
-# WhatsApp Baileys Raffi
+# WhatsApp Baileys Lanzexe
 
 <p align="center">
   <img src="https://a.top4top.io/p_3706f3uf1.jpg" alt="Thumbnail" />
