@@ -12,9 +12,9 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://github.com/RILLYZY/bails",
+    "homepage": "https://github.com/WhiskeySockets/Baileys",
     "repository": {
-        "url": "https://github.com/RILLYZY/bails"
+        "url": "git@github.com/WhiskeySocket/Baileys.git"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
@@ -52,7 +52,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:RILLYZY/libsignal-node",
+        "libsignal": "github:adiwajshing/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
